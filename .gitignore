@@ -1,2 +1,3 @@
 models/phi-2-int8-ov/
 models/blip_pytorch/
+.env
